@@ -1,6 +1,3 @@
--- ============================================
--- ADVANCED SQL QUERIES FOR FLIGHT ANALYSIS
--- ============================================
 
 -- Query 1: Top 10 Routes with Most Delays by Time of Day
 -- Shows which routes are most problematic during different hours
